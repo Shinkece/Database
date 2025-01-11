@@ -1,4 +1,7 @@
-[
-  "7739948786:AAHMvFsWZRXCojDONNfTMyCaMKnlrEuFbt4",
-  ""
-]
+{
+  "users": [
+    {
+      "Premium Token": "Bot token"
+    }
+  ]
+}
